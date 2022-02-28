@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfullerton44
-- 👀 I’m interested in Codespaces
-- 🌱 I’m currently learning Kubernetes and .Net
+- 👀 I’m interested in Codespaces and tunneling
+- 🌱 I’m currently learning Kubernetes, .Net and Go
 - 📫 How to reach me through email at jfullerton@microsoft.com
 
 <!---
